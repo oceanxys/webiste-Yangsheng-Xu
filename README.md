@@ -18,7 +18,7 @@
   Define terms and link to docs.github.com.
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
-Selfie:  [View PDF - Selfie](https://raw.githubusercontent.com/oceanxys/webiste-Yangsheng-Xu/main/WechatIMG665.pdf)    
+Selfie:  [View PDF - WechatIMG665](https://github.com/oceanxys/webiste-Yangsheng-Xu/blob/main/WechatIMG665.pdf)      
 Introducing myself: Yangsheng Xu is a dedicated undergraduate student at UCLA, pursuing a Bachelor of Science in Mathematics with a strong academic performance (GPA: 3.85/4.00). Complementing his studies, he has extensive experience in research, data analysis, and financial modeling, honed through internships with companies such as CLSA, Allied Millennial Partners, and GF Securities. Yangsheng's involvement in extracurricular activities, like co-founding a mathematical competition club, demonstrates his leadership and commitment to knowledge sharing. Fluent in English and Chinese, and skilled in tools like Python and MySQL, he brings a versatile approach to problem-solving and analysis.    
 I have uploaded several projects of myself on the github file there. And I also upload a selfie of myself. 
 individual project week 2.1 [View PDF - Individual 2.1](https://github.com/oceanxys/webiste-Yangsheng-Xu/blob/main/individual-2.1.pdf)   
